@@ -38,7 +38,7 @@
         ?>
             <tr>
                 <td><?php echo $bil++; ?></td>
-                <td><?php> echo $pelajar['nama']; ?></td>
+                <td><?php echo $pelajar['nama']; ?></td>
                 <td><?php echo $pelajar['umur']; ?> tahun</td>
                 <td><?php echo $pelajar['jantina']; ?></td>
         </tr>

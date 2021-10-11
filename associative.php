@@ -30,9 +30,6 @@
             <td><?php echo $peserta['jantina']; ?></td>
         </tr>
     </table>
-    ?>
         
-
-
 </body>
 </html>
